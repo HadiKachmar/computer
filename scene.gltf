@@ -1,0 +1,439 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 146,
+      "max": [
+        1.0,
+        3.138090133666992,
+        4.310248851776123
+      ],
+      "min": [
+        -1.0,
+        -2.995943069458008,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1752,
+      "componentType": 5126,
+      "count": 146,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 146,
+      "max": [
+        0.9293720722198486,
+        0.5787450671195984
+      ],
+      "min": [
+        0.10164236277341843,
+        0.4212549328804016
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 252,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3504,
+      "componentType": 5126,
+      "count": 2378,
+      "max": [
+        1.0,
+        1.0,
+        0.031018435955047607
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.0005678962916135788
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 32040,
+      "componentType": 5126,
+      "count": 2378,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1168,
+      "componentType": 5126,
+      "count": 2378,
+      "max": [
+        0.13181094825267792,
+        0.5000000596046448
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1008,
+      "componentType": 5125,
+      "count": 3582,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 60576,
+      "componentType": 5126,
+      "count": 208,
+      "max": [
+        1.0,
+        1.0,
+        0.26387491822242737
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.01571492850780487
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 63072,
+      "componentType": 5126,
+      "count": 208,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9999691247940063
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 20192,
+      "componentType": 5126,
+      "count": 208,
+      "max": [
+        0.13366548717021942,
+        0.5000000596046448
+      ],
+      "min": [
+        0.07405582070350647,
+        0.3425098955631256
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 15336,
+      "componentType": 5125,
+      "count": 399,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "chayaruart (https://sketchfab.com/chayaruart)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/low-poly-computer-screen-emapale-informaticate-44760745b7b64d599d11bf90207da5b9",
+      "title": "Low poly computer screen - Emapalé Informaticaté"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 16932,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 21856,
+      "byteOffset": 16932,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 65568,
+      "byteOffset": 38788,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 104356,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Material.001_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Material.001",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.06251178033550396
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "screen_Material.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "keyboard_Material.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "mouse_Material.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "21bd9bc7cc294156a9f991339972c267.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        24.71672248840332,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -4.026865220150027e-06,
+        -24.716722488402993,
+        0.0,
+        0.0,
+        24.716722488402993,
+        -4.026865220150027e-06,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "screen"
+    },
+    {
+      "mesh": 0,
+      "name": "screen_Material.001_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        22.29317283630371,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -8.587152349006316e-06,
+        -52.70756530761649,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        69.06301879882813,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "keyboard"
+    },
+    {
+      "mesh": 1,
+      "name": "keyboard_Material.001_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        9.420502662658691,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -9.718031549532576e-07,
+        -5.964885234832685,
+        0.0,
+        0.0,
+        9.420502662658567,
+        -1.5347946940129108e-06,
+        0.0,
+        82.3917465209961,
+        0.0,
+        -68.08161926269531,
+        1.0
+      ],
+      "name": "mouse"
+    },
+    {
+      "mesh": 2,
+      "name": "mouse_Material.001_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
